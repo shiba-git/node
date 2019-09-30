@@ -1,2 +1,6 @@
 epelからnodeをインストールしないこと、yumでやる version古すぎ  
 http://exrecord.net/how-to-install-latest-nodejs   
+  
+  
+centos の場合 vue ui -H 192.168.33.10   
+https://kawadev.net/vue-cli3-ui/  

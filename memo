@@ -2,7 +2,8 @@ epelからnodeをインストールしないこと、yumでやる version古す�
 http://exrecord.net/how-to-install-latest-nodejs   
 こちらを参考
 https://qiita.com/daskepon/items/16a77868d38f8e585840  
-  
+対策2を参考
+https://qiita.com/okohs/items/ced3c3de30af1035242d　　
   
 centos の場合 vue ui -H 192.168.33.10   
 https://kawadev.net/vue-cli3-ui/  

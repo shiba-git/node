@@ -1,5 +1,7 @@
 epelからnodeをインストールしないこと、yumでやる version古すぎ  
 http://exrecord.net/how-to-install-latest-nodejs   
+こちらを参考
+https://qiita.com/daskepon/items/16a77868d38f8e585840  
   
   
 centos の場合 vue ui -H 192.168.33.10   

@@ -11,5 +11,10 @@ https://kawadev.net/vue-cli3-ui/
 heroku デプロイ  
 SSH-key作成　(githubのメールアドレスやることに注意)  
 https://qiita.com/GakuNaitou/items/81dbbd3ea6211af71648  
+
+メインを以下にし、
+https://vueschool.io/lessons/how-to-deploy-nuxtjs-to-heroku?friend=nuxt
+補足的に以下を参考
+https://ja.nuxtjs.org/faq/heroku-deployment/
   
   
